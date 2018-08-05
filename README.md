@@ -1,2 +1,0 @@
-# wtgg
-my personal website
